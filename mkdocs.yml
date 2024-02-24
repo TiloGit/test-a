@@ -1,0 +1,14 @@
+# Project information
+site_name: tilo test docs
+site_url: https://todo.mytsocloud123.com/docs
+site_author: "Tilo S"
+site_description: "Documentation for my test"
+strict: true
+
+# Repository
+repo_name: TiloGit/test-a
+repo_url: https://github.com/TiloGit/test-a
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: "Copyright &copy; Tilo"
