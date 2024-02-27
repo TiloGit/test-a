@@ -1,0 +1,4 @@
+mkdocs-material
+mike
+mkdocs-glightbox
+mkdocs-awesome-pages-plugin
