@@ -2,9 +2,10 @@
 
 This is Foo, 
 
-which can use icon too (from https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#using-icons)
+which can use icon too [Info Design]: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#using-icons
 
-:fontawesome-dumpster-fire:
+:fontawesome-regular-face-laugh-wink:
+:fontawesome-solid-dumpster-fire:
 
 :simple-sap:
 
